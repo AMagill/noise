@@ -1,0 +1,8 @@
+name: noise
+author: Andrew Magill <AMagill@gmail.com>
+version: 1.0.0
+homepage: http://OminousHum.com
+description: Noise algorithms.  Namely, Simplex and Perlin noise.
+dev_dependencies:
+  browser: any
+  unittest: any
